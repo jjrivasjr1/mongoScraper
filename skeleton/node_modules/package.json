@@ -1,0 +1,25 @@
+{
+  "name": "mongoscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjrivasjr1/mongoScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjrivasjr1/mongoScraper/issues"
+  },
+  "homepage": "https://github.com/jjrivasjr1/mongoScraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "mongojs": "^2.5.0",
+    "request": "^2.85.0"
+  }
+}
